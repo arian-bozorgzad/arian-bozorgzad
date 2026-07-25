@@ -1,16 +1,59 @@
-## Hi there 👋
+# Hi, I'm Arian Bozorgzad 👋
 
-<!--
-**arian-bozorgzad/arian-bozorgzad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Engineering student passionate about software engineering, system programming, and artificial intelligence.
 
-Here are some ideas to get you started:
+I enjoy building practical software, learning how systems work under the hood, and continuously improving my problem-solving skills through personal and academic projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## About Me
+
+- 🎓 Computer Engineering student
+- 💻 Mainly work with C++, Python, and C
+- 🤖 Interested in Artificial Intelligence and Machine Learning
+- 🖥 Interested in software engineering and systems programming
+- 📚 Currently learning algorithms, operating systems, databases, software design, and AI fundamentals
+- 🌱 Always exploring new technologies and best practices
+
+---
+
+## Tech Stack
+
+### Languages
+
+- C++
+- Python
+- C
+- SQL
+
+### Tools & Technologies
+
+- Git
+- GitHub
+- Linux
+- SQLite
+
+### Areas of Interest
+
+- Software Engineering
+- Artificial Intelligence
+- Machine Learning
+- Operating Systems
+- Algorithms & Data Structures
+- System Programming
+- Design Patterns
+
+---
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arian-bozorgzad&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arian-bozorgzad&layout=compact)
+
+---
+
+## Connect
+
+- GitHub: https://github.com/arian-bozorgzad
+- LinkedIn: https://www.linkedin.com/in/arianbozorgzad/
