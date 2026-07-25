@@ -45,15 +45,10 @@ I enjoy building practical software, learning how systems work under the hood, a
 
 ---
 
-## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arian-bozorgzad&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arian-bozorgzad&layout=compact)
-
----
 
 ## Connect
 
 - GitHub: https://github.com/arian-bozorgzad
 - LinkedIn: https://www.linkedin.com/in/arianbozorgzad/
+- Gmail : arian.bozorgzad@gmail.com
