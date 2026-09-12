@@ -1,54 +1,54 @@
-# Hi, I'm Arian Bozorgzad 👋
+# Hi, I'm Arian 👋
 
-Computer Engineering student passionate about software engineering, system programming, and artificial intelligence.
+I'm a Computer Engineering student interested in software development, backend programming, systems, and artificial intelligence.
 
-I enjoy building practical software, learning how systems work under the hood, and continuously improving my problem-solving skills through personal and academic projects.
+Most of my experience comes from university courses, personal projects, and trying to build things on my own. I like understanding how software works behind the scenes, not just making something that works.
 
----
+Right now, I'm mainly improving my programming fundamentals and building projects with Python and C++.
 
 ## About Me
 
-- 🎓 Computer Engineering student
-- 💻 Mainly work with C++, Python, and C
-- 🤖 Interested in Artificial Intelligence and Machine Learning
-- 🖥 Interested in software engineering and systems programming
-- 📚 Currently learning algorithms, operating systems, databases, software design, and AI fundamentals
-- 🌱 Always exploring new technologies and best practices
+* 🎓 Computer Engineering student
+* 💻 Mostly working with Python, C++, and C
+* 🔧 Building small backend and software projects
+* 🤖 Learning more about AI and Machine Learning
+* 🐧 Interested in Linux and systems programming
+* 📚 Currently studying algorithms, operating systems, databases, and software design
 
----
+## Languages & Tools
 
-## Tech Stack
+**Languages**
 
-### Languages
+* Python
+* C++
+* C
+* SQL
+*JavaScript
+**Tools / Technologies**
 
-- C++
-- Python
-- C
-- SQL
+* Git & GitHub
+* Linux
+* SQLite
+* FastAPI
 
-### Tools & Technologies
+## What I'm Interested In
 
-- Git
-- GitHub
-- Linux
-- SQLite
+* Backend Development
+* Software Engineering
+* Artificial Intelligence & Machine Learning
+* Algorithms and Data Structures
+* Operating Systems
+* Systems Programming
+* Software Design
 
-### Areas of Interest
+## Current Focus
 
-- Software Engineering
-- Artificial Intelligence
-- Machine Learning
-- Operating Systems
-- Algorithms & Data Structures
-- System Programming
-- Design Patterns
+At the moment, I'm focusing on becoming a better software developer by strengthening my fundamentals and building more practical projects.
 
----
+I'm especially interested in learning more about backend systems, computer science fundamentals, and how machine learning can be used in real applications.
 
+## Connect With Me
 
-
-## Connect
-
-- GitHub: https://github.com/arian-bozorgzad
-- LinkedIn: https://www.linkedin.com/in/arianbozorgzad/
-- Gmail : arian.bozorgzad@gmail.com
+* GitHub: https://github.com/arian-bozorgzad
+* LinkedIn: https://www.linkedin.com/in/arianbozorgzad/
+* Email: [arian.bozorgzad@gmail.com](mailto:arian.bozorgzad@gmail.com)
