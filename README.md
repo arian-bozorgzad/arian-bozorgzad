@@ -44,7 +44,7 @@ Right now, I'm mainly improving my programming fundamentals and building project
 ## Current Focus
 
 At the moment, I'm focusing on becoming a better software developer by strengthening my fundamentals and building more practical projects.
-
+I'm looking at a opensource project and it's issues everyday to improve my solving skills! 
 I'm especially interested in learning more about backend systems, computer science fundamentals, and how machine learning can be used in real applications.
 
 ## Connect With Me
