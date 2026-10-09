@@ -6,6 +6,17 @@ Most of my experience comes from university courses, personal projects, and tryi
 
 Right now, I'm mainly improving my programming fundamentals and building projects with Python and C++.
 
+## 🌍 Open Source Contributions
+
+### Weights & Biases — rai-toolkit
+**[Merged PR #87: Improve JSONL Dataset Error Reporting](https://github.com/wandb/rai-toolkit/pull/87)**
+
+- Improved error messages to report the source file and exact line number of malformed JSONL records.
+- Added validation for non-object JSONL entries and regression tests.
+- Successfully passed automated checks and received maintainer approval.
+
+**Tech:** Python · Pytest · Git · GitHub Actions
+   
 ## About Me
 
 * 🎓 Computer Engineering student
