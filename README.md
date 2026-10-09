@@ -13,7 +13,7 @@ Right now, I'm mainly improving my programming fundamentals and building project
 * 🔧 Building small backend and software projects
 * 🤖 Learning more about AI and Machine Learning
 * 🐧 Interested in Linux and systems programming
-* 📚 I am a teacher assistant at university for bp (python) and programing teacher at highschool  
+* 📚 I am a teacher assistant at university for basic programming (python) , advanced programming(c++) and programing teacher at highschool  
 *
 ## Languages & Tools
 
