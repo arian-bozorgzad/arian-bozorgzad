@@ -50,11 +50,6 @@ At the moment, I'm focusing on becoming a better software developer by strengthe
 I'm looking at a opensource project and it's issues everyday to improve my solving skills! 
 I'm especially interested in learning more about backend systems, computer science fundamentals, and how machine learning can be used in real applications.
 
-##Open Source Contributions
-
-- wandb/rai-toolkit — Fixed JSONL dataset loading errors by adding source file and physical line reporting, JSON object validation, and regression tests.
-  "Merged PR #87" (https://github.com/wandb/rai-toolkit/pull/87)
-
 ## Connect With Me
 
 * GitHub: https://github.com/arian-bozorgzad
