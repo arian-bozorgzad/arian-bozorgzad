@@ -1,57 +1,77 @@
 # Hi, I'm Arian Bozorgzad 👋
 
-I'm a Computer Engineering student interested in software development, backend programming, systems, and artificial intelligence.
+**Computer Engineering Undergraduate | Software Development | Backend Systems | Artificial Intelligence**
 
-Most of my experience comes from university courses, personal projects, and trying to build things on my own. I like understanding how software works behind the scenes, not just making something that works.
+I'm a Computer Engineering undergraduate with a strong interest in software engineering, backend development, systems programming, and artificial intelligence.
 
-Right now, I'm mainly improving my programming fundamentals and building projects with Python and C++.
+My academic coursework, personal projects, open-source contributions, and teaching experience have shaped my approach to programming. I'm particularly interested in understanding the underlying principles of software systems, writing maintainable code, and developing practical solutions to technical problems.
 
-## 🌍 Open Source Contributions
+I'm currently strengthening my foundations in computer science, expanding my experience with Python and C++, and exploring opportunities to contribute to meaningful open-source projects.
+
+## 🔬 Areas of Interest
+
+- **Software Engineering:** Software architecture, testing, maintainability, and code quality
+- **Backend Development:** API design, databases, and backend systems
+- **Systems Programming:** Linux, C/C++, and low-level programming concepts
+- **Artificial Intelligence:** Machine learning fundamentals and practical applications
+- **Computer Science:** Algorithms, data structures, and problem-solving
+
+## 🌍 Open-Source Contributions
+
+I actively explore open-source projects to gain experience working with established codebases, understand software development practices, and improve my technical problem-solving skills.
 
 ### Weights & Biases — rai-toolkit
-**[Merged PR #87: Improve JSONL Dataset Error Reporting](https://github.com/wandb/rai-toolkit/pull/87)**
 
-- Improved error messages to report the source file and exact line number of malformed JSONL records.
-- Added validation for non-object JSONL entries and regression tests.
-- Successfully passed automated checks and received maintainer approval.
+**[Merged PR #87 — Improve JSONL Dataset Error Reporting](https://github.com/wandb/rai-toolkit/pull/87)**
 
-**Tech:** Python · Pytest · Git · GitHub Actions
-   
-## About Me
+- Enhanced JSONL dataset error reporting by identifying the source file and exact line number of malformed records.
+- Implemented validation for non-object JSONL entries and added regression tests.
+- Successfully passed automated checks and completed the maintainer review process.
 
-* 🎓 Computer Engineering student
-* 💻 Mostly working with Python, C++, and C
-* 🔧 Building small backend and software projects
-* 🤖 Learning more about AI and Machine Learning
-* 🐧 Interested in Linux and systems programming
-* 📚 I am a teacher assistant at university for basic programming (python) , advanced programming(c++) and programing teacher at highschool  
-*
-## Languages & Tools
+**Technologies:** Python · Pytest · Git · GitHub Actions
 
-**Languages**
+### pyBKT — Bayesian Knowledge Tracing
 
-* Python
-* C++
-* C
-* SQL
-*JavaScript
-**Tools / Technologies**
+**[Merged PR #86 — CAHLR/pyBKT](https://github.com/CAHLR/pyBKT/pull/86)**
 
-* Git & GitHub
-* Linux
-* SQLite
-* FastAPI
+Contributed to pyBKT, an open-source Python implementation of Bayesian Knowledge Tracing used in educational data modeling.
 
+## 👨‍🏫 Teaching Experience
 
+My teaching experience has helped me develop stronger communication skills, reinforce my understanding of programming fundamentals, and support other students in their learning.
 
-## Current Focus
+- **University Teaching Assistant — Introduction to Programming (Python)**
+- **University Teaching Assistant — Advanced Programming (C++)**
+- **Programming Instructor — High School Level**
 
-At the moment, I'm focusing on becoming a better software developer by strengthening my fundamentals and building more practical projects.
-I'm looking at a opensource project and it's issues everyday to improve my solving skills! 
-I'm especially interested in learning more about backend systems, computer science fundamentals, and how machine learning can be used in real applications.
+Through these roles, I have gained experience explaining technical concepts, assisting students with programming exercises, and encouraging structured problem-solving.
 
-## Connect With Me
+## 🛠️ Technical Skills
 
-* GitHub: https://github.com/arian-bozorgzad
-* LinkedIn: https://www.linkedin.com/in/arianbozorgzad/
-* Email: [arian.bozorgzad@gmail.com](mailto:arian.bozorgzad@gmail.com)
+| Category | Technologies |
+|---|---|
+| Programming Languages | Python, C++, C, SQL, JavaScript |
+| Backend Development | FastAPI, SQLite |
+| Development Tools | Git, GitHub, GitHub Actions |
+| Testing | Pytest |
+| Environment | Linux |
+
+## 📚 Current Focus
+
+I'm currently working on developing a stronger theoretical and practical foundation in computer science.
+
+My main priorities include:
+
+- Deepening my understanding of algorithms, data structures, and software design.
+- Building practical backend and software engineering projects.
+- Contributing to open-source repositories through bug fixes, testing, and code improvements.
+- Exploring machine learning and its applications in real-world problems.
+- Improving my ability to understand, debug, and extend existing software systems.
+
+I'm especially interested in pursuing graduate studies that will allow me to deepen my technical knowledge, explore research-oriented problems, and contribute to meaningful software and computing projects.
+
+## 📫 Connect With Me
+
+- **GitHub:** [arian-bozorgzad](https://github.com/arian-bozorgzad)
+- **LinkedIn:** [Arian Bozorgzad](https://www.linkedin.com/in/arianbozorgzad/)
+- **Email:** [arian.bozorgzad@gmail.com](mailto:arian.bozorgzad@gmail.com)
