@@ -1,4 +1,4 @@
-# Hi, I'm Arian 👋
+# Hi, I'm Arian Bozorgzad 👋
 
 I'm a Computer Engineering student interested in software development, backend programming, systems, and artificial intelligence.
 
